@@ -45,3 +45,11 @@ Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola
 - Apiretal Vildózola
 
 </details>
+
+## 🤝 Protocolo de colaboración
+
+- Discussions != Issues
+- Discussion > Issues > Email
+- Acepto pull requests de emergencia (solo si hay fuego)
+- Code reviews: aplicar en ayunas
+- Pair programming: consultar prospecto antes de usar
