@@ -18,3 +18,31 @@ Estudiante aplicado, casi siempre en la primera fila (excepto los lunes a las 8 
 ## Equipo de trabajo
 
 Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola 
+
+---
+
+<details>
+<summary>Grupo de estudio del curso <b>Fundamentos del desarrollo de soluciones basadas en software</b></summary>
+
+
+- Bisolvon Álvarez
+- Flutox Castro
+- Voltaren Díaz
+- Ibuprofeno Fernández
+- Espidifen García
+- Dalsy Gómez
+- Paracetamol Ibáñez
+- Enantyum Jiménez
+- Frenadol López
+- Gelocatil Martínez
+- Ventolin Moreno
+- Primperán Navarro
+- Fortasec Pérez
+- Omeprazol Ramírez
+- Nolotil Rodríguez
+- Betadine Ruiz
+- Almax Sánchez
+- Aspirina Torres
+- Apiretal Vildózola
+
+</details>
