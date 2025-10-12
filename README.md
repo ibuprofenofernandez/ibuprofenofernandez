@@ -1,13 +1,12 @@
 # Ibuprofeno Fernández
 
-<div align=right>
+<div align=center>
 
-***💊 Analgésico esdrújulo de espectro desigual.***
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)|💊 Analgésico esdrújulo de espectro desigual|
+|-|-|
+||<sub>*Estudiante aplicado, casi siempre en la primera fila (excepto los lunes a las 8 am)*</sub>|
 </div>
-
-Estudiante aplicado, casi siempre en la primera fila (excepto los lunes a las 8 am).
-
+  
 |myStack|Actualmente aprendiendo|Habilidades blandas|
 |-|-|-|
 **Java**: para cuando el dolor es estructurado.|A compilar sin errores (se dice fácil).|Soporto prácticas maratónicas sin receta médica.
