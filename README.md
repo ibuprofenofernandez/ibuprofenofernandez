@@ -13,12 +13,6 @@
 **Markdown**: porque hasta las pastillas necesitan prospecto.|A que `public static void main` no es un hechizo mágico, aunque debería.|Doy soporte emocional en los commits:<br><br>`git commit -m "Ya no puedo más, pero aquí está el código"`
 **Ctrl+Z**: mi framework favorito.|
 
-> misAsignaturas: [PRG1](https://github.com/ibuprofenofernandez/25-26-PRG1) / EDA1](https://github.com/ibuprofenofernandez/25-26-EDA1) / IdSW1](https://github.com/ibuprofenofernandez/25-26-IDSW1)
-
-## Equipo de trabajo
-
-Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola 
-
 ---
 
 <details>
@@ -46,6 +40,8 @@ Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola
 - Apiretal Vildózola
 
 </details>
+
+> **misAsignaturas**: [PRG1](https://github.com/ibuprofenofernandez/25-26-PRG1) / [EDA1](https://github.com/ibuprofenofernandez/25-26-EDA1) / [IdSW1](https://github.com/ibuprofenofernandez/25-26-IDSW1) / **miEquipoDeTrabajo**: Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola 
 
 ## 🤝 Protocolo de colaboración
 
