@@ -41,7 +41,7 @@
 
 </details>
 
-> **misAsignaturas**: [PRG1](https://github.com/ibuprofenofernandez/25-26-PRG1) / [EDA1](https://github.com/ibuprofenofernandez/25-26-EDA1) / [IdSW1](https://github.com/ibuprofenofernandez/25-26-IDSW1) / **miEquipoDeTrabajo**: Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola 
+> **misAsignaturas**: [PRG2](https://github.com/ibuprofenofernandez/25-26-PRG2) / [EDA2](https://github.com/ibuprofenofernandez/25-26-EDA2) / [IdSW2](https://github.com/ibuprofenofernandez/25-26-IDSW2) / **miEquipoDeTrabajo**: Dalsy Gomez / Paracetamol Ibañez / Apiretal Vildózola 
 
 ## 🤝 Protocolo de colaboración
 
