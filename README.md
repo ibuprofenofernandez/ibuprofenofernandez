@@ -50,3 +50,21 @@
 - Acepto pull requests de emergencia (solo si hay fuego)
 - Code reviews: aplicar en ayunas
 - Pair programming: consultar prospecto antes de usar
+
+## ⚠️ Prospecto de uso y contraindicaciones
+
+- **Indicaciones:** Indicado para el tratamiento sintomático de bugs agudos, refactorizaciones de última hora y exámenes de laboratorio sin estudiar.
+- **Efectos secundarios conocidos:**
+  - Somnolencia extrema durante clases de teoría.
+  - Ansiedad al ejecutar `git push --force`.
+  - Pérdida temporal de memoria sobre por qué ese `if` funciona pero no toca moverlo.
+- **Interacciones:** No mezclar con bebidas energéticas pasadas las 02:00 am o el código comenzará a generar alucinaciones de sintaxis.
+
+## 💊 Historial de Dosis (Changelog)
+
+- **v3.0.0 (En desarrollo):** Incorporación de soporte multihilo para atender 3 entregas simultáneas la noche anterior.
+- **v2.0.0 (Especialidad):** Sobrevivió a Estructuras de Datos. Añadida resistencia parcial a los *Punteros nulos*.
+- **v1.0.0 (Infantil):** Aprendió a hacer un `Hello World` sin romper el entorno de desarrollo.
+
+![Dosis recomendada](https://img.shields.io/badge/Dosis-1_commit_cada_8h-brightgreen?style=for-the-badge&logo=medikit)
+![Estatus](https://img.shields.io/badge/Estado-Fuera_de_stock_en_farmacias-red?style=for-the-badge)
